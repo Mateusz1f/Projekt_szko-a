@@ -6,6 +6,13 @@
 body {
   font-family: 'Arial Narrow', sans-serif;
   line-height: 1.6;
+  background: url('t.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: #555555;
+
+  background-size: cover;
+  color: #555555;
+
   color: #555555;
 }
 
